@@ -5,9 +5,7 @@ layout: page
 
 <img src="/assets/img/BTSCon2022_logo.png" alt="" />
 
-The goal of this two-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
-
-### The full conference program can be viewed [here](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing). 
+The Emotion Phenomenology and Physiology Modeling Challenge (EPPMC) is a competition-style modeling challenge. The goal? To evaluate how well experts can model moment-to-moment ratings of two elementary components of emotional experience--feelings of valence and arousal--using measures of peripheral nervous system activity.
 <br>
 
 ***

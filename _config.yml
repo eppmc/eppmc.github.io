@@ -6,21 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: 2022 Big Team Science Conference
+title: Emotion Phenomenology and Physiology Challenge
 
 # Your name to show in the footer
-author: Heidi Baumgartner
+author: Nicholas Coles
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Home: "index"
-  Meeting Info: 
-    - Program: "program"
-    - Registration: "https://opencollective.com/psysciacc/events/test-event-23392c94/contribute/registration-2022-big-team-science-conference-40278"
-    - Accessibility: "access"
-    - Code of Conduct: "codeofconduct"
-    - Meeting Rules: "rules"
 #  Registration: "registration"
 #  Program: "program"
 #  Contact: "contact"
@@ -50,10 +44,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "bigteamscienceconference@gmail.com"
+  email: "ncoles@stanford.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: bigteamscienceconference
+#  github: bigteamscienceconference
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -91,7 +85,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "bigteamscienceconference.github.io"
+url-pretty: "eppmc.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -106,7 +100,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "team,science,collaboration,network"
+keywords: "emotion, phenomenology, physiology, science, competition, machine learning"
 
 # --- Colours / background image --- #
 
