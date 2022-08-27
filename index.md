@@ -6,63 +6,12 @@ layout: page
 <img src="/assets/img/eppmc_banner.png" alt="" />
 
 The Emotion Phenomenology and Physiology Modeling Challenge (EPPMC) is a competition-style modeling challenge. 
-<br><br>
+<br>
 
 Our goal: To evaluate how well experts can model moment-to-moment ratings of two elementary components of emotional experience--feelings of valence and arousal--using measures of peripheral nervous system activity.
 
 ***
-
-## Registration
-
-Registration for the 2022 BTSCON is now open! To ensure inclusivity, **registration fees are optional** for attendees. You can attend for free or pay what you want, but the suggested registration fee is $20. All proceeds will be used to develop and improve upon future big team science projects. 
-
-### [REGISTER HERE](https://opencollective.com/psysciacc/events/test-event-23392c94/contribute/registration-2022-big-team-science-conference-40278)
-
-<br>
-
-***
-<!--## [Speakers]({{site.baseurl}}/people/) 
--->
-## Keynote Speakers
-
-<section>
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <p>    </p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-4 col-xs-6" align="center">
-        <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" target="_blank"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." width="200" height="200"></a>
-      </div>
-      <div class="col-sm-8">
-        <h3><a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" target="_blank">Fiona Fidler, Ph.D.</a></h3>
-        <i>Professor, History and Philosophy Science, University of Melbourne, Australia; Australian Research Council Future Fellow</i>
-        <h4>Collaborative Assessments for Trustworthy Science: The repliCATS project</h4>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-12">
-        <p>    </p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-4 col-xs-6" align="center">
-        <a href="https://csl.ist.ucf.edu/People" target="_blank"><img src="/assets/img/FioreHeadshot.png" alt="Stephen M. Fiore, Ph.D." width="200" height="200"></a>
-      </div>
-      <div class="col-sm-8">
-        <h3><a href="https://csl.ist.ucf.edu/People" target="_blank">Stephen M. Fiore, Ph.D.</a></h3>
-        <i>Professor, Cognitive Sciences and Department of Philosophy, University of Central Florida, USA; President, International Network for the Science of Team Science</i>
-        <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
-      </div>
-    </div>
-  </div>
-</section>
-<br>
-
-***
-## Featured Sessions
+## Competition Details
 
 <section>
   <div class="container">
@@ -73,12 +22,11 @@ Registration for the 2022 BTSCON is now open! To ensure inclusivity, **registrat
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="https://www.nature.com/articles/d41586-022-01332-8/" target="_blank"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150"></a>
+        <img src="/assets/img/comp1.png" alt="" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
-        <h3>Guidance for Multi-Analyst Projects</h3>
-        <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/" target="_blank">Balazs Aczel</a></h4>
-        <i>Eötvös Loránd University, Hungary</i>
+        <h3>Competitor Selection</h3>
+        Competitors will be selected...
       </div>
     </div>
     <div class="col-sm-12">
