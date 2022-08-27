@@ -22,7 +22,7 @@ Our goal: To evaluate how well experts can model moment-to-moment ratings of two
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <img src="/assets/img/comp1.png" alt="" width="150" height="150"></a>
+        <img src="/assets/img/comp1.png" alt="" width="150" height="150">
       </div>
       <div class="col-sm-9">
         <h3>Competitor Selection</h3>
@@ -34,12 +34,11 @@ Our goal: To evaluate how well experts can model moment-to-moment ratings of two
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="https://psysciacc.org/006-trolley-problem/" target="_blank"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150"></a>
+        <img src="/assets/img/comp2.png" alt="" width="150" height="150">
       </div>
       <div class="col-sm-9">
-        <h3>Situational Factors Shape Moral Judgements in the Trolley Dilemma in a Culturally Diverse Sample</h3>
-        <h4><a href="https://www.iast.fr/people/bence-bago" target="_blank">Bence Bagó</a></h4>
-        <i>Institute for Advanced Study in Toulouse, France</i>
+        <h3>Database dissemination</h3>
+        Databases be disseminated...
       </div>
     </div>
     <div class="col-sm-12">
