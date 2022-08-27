@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-<img src="/assets/img/eppmc_banner.png.png" alt="" />
+<img src="/assets/img/eppmc_banner.png" alt="" />
 
 The Emotion Phenomenology and Physiology Modeling Challenge (EPPMC) is a competition-style modeling challenge. The goal? To evaluate how well experts can model moment-to-moment ratings of two elementary components of emotional experience--feelings of valence and arousal--using measures of peripheral nervous system activity.
 <br>
