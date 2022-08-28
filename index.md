@@ -53,6 +53,9 @@ Our goal: To evaluate how well experts can model moment-to-moment ratings of two
         Development and testing...
       </div>
     </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/comp4.png" alt="" width="150" height="150">
@@ -66,84 +69,6 @@ Our goal: To evaluate how well experts can model moment-to-moment ratings of two
 </section>
 <br>
 
-<!--
-***
-## [Program]({{site.baseurl}}/schedule/) 
--->
-
-<!--***
-## Sessions
-
-The conference will feature symposia, panel sessions, hackathons, talks, and social hours. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
-
-<section>
-  <div class="container">
-    <div class="row justify-content-around">
-      <div align="center">
-        <h2>Session Formats</h2>
-      </div>
-    </div>
-    <div class="row justify-content-around">
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Symposia</h3>
-        <i>60 minutes</i><br>
-        <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100"><br>
-        <b>3 or 4 talks</b> <br>
-      </div>
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Panels</h3>
-        <i>60 minutes</i><br>
-        <img src="/assets/img/panel.png" alt="panel" width="100" height="100"><br>
-        <b>3 or 4 panelists</b><br>
-      </div>
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Hackathons</h3>
-        <i>90 minutes</i><br>
-        <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
-        <b>~4 leaders</b><br>
-      </div>
-    </div>
-    <div class="row justify-content-around">
-      <div class="col-sm-1" align="center">
-      </div>
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Talks</h3>
-        <i>30 minutes</i><br> 
-        <img src="/assets/img/talk.png" alt="talk" width="100" height="100"><br>
-      </div>
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Lightning Talks</h3>
-        <i>5 minutes</i><br> 
-        <img src="/assets/img/lightning.png" alt="lightning talk" width="100" height="100"><br>
-      </div>
-      <div class="col-sm-1" align="center">
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-  </div>
-</section> 
--->
-
-<!--
-<h3 align="center">Deadline to complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submission Form</a> extended to August 5!</h3>
-<br>
--->
-
-<!--***
-
-## Important Dates
-
-* **Submissions Open:** June 7, 2022
-* **Submission Deadline:** ~~July 22, 2022~~ Extended to August 5, 2022
-* **Submission Decisions:** August 5, 2022 (or soon after, for late submissions)
-* **Registration Open:** August, 2022
-* **Conference:** October 27-28, 2022
-
-> View the [BTScon calendar](https://calendar.google.com/calendar/embed?src=bigteamscienceconference%40gmail.com&ctz=America%2FNew_York)
--->
-
 ***
 ## Sponsor Organizations
 
@@ -151,17 +76,21 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 	<br>
 	<div class="container">
 		<div class="row justify-content-around">
-		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" align="center">
+		  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
 		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="150" height="150"></a>
 			   <h4><a href="https://manybabies.github.io" target="_blank">ManyBabies</a></h4>
 		  </div>
-      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" align="center">
-			  <a href="https://manyprimates.github.io" class="image" target="_blank"><img src="/assets/img/mp_logo_notext2.png" alt="ManyPrimates" width="150" height="150"></a>
-			  <h4><a href="https://manyprimates.github.io" target="_blank">ManyPrimates</a></h4>
+      		  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
+		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="150" height="150"></a>
+			   <h4><a href="https://manybabies.github.io" target="_blank">ManyBabies</a></h4>
 		  </div>
-		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" align="center">
-			  <a href="https://psysciacc.org/" class="image" target="_blank"><img src="/assets/img/psa_logo.png" alt="PSA" width="150" height="150"></a>
-			  <h4><a href="https://psysciacc.org/" target="_blank">Psychological Science Accelerator</a></h4>
+		  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
+		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="150" height="150"></a>
+			   <h4><a href="https://manybabies.github.io" target="_blank">ManyBabies</a></h4>
+		  </div>
+	 	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
+		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="150" height="150"></a>
+			   <h4><a href="https://manybabies.github.io" target="_blank">ManyBabies</a></h4>
 		  </div>
 	  </div>
 	</div>
