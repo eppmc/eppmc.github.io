@@ -88,6 +88,9 @@ Our goal: To evaluate how well experts can model moment-to-moment ratings of two
 		    <img src="/assets/img/Coles_headshot.jpg" alt="" width="110" height="110">
 			   <h4><a href="https://manybabies.github.io" target="_blank">Maciej Behnke</a></h4>
 		  </div>
+		  <div class="col-sm-12">
+        			<p>   </p>
+    		  </div>
 	 	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
 		    <img src="/assets/img/Coles_headshot.jpg" alt="" width="110" height="110">
 			   <h4><a href="https://manybabies.github.io" target="_blank">Bartek Perz</a></h4>
