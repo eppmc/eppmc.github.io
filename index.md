@@ -26,7 +26,6 @@ Our goal: To evaluate how well experts can model moment-to-moment ratings of two
       </div>
       <div class="col-sm-9">
         <h3>Competitor Selection</h3>
-        <h4><i>February 2023</i></h4>
         Researchers can apply to participate in the challenge if they (a) have experience in machine learning and/or artificial intelligence, and (b) are currently affiliated with an academic institution (e.g., a university or college).<br><br>12 applicants will be chosen to participate in the challenge, and these competitors will receive a small stipend at the end of the challenge.
       </div>
     </div>
@@ -71,7 +70,7 @@ Our goal: To evaluate how well experts can model moment-to-moment ratings of two
 <br>
 
 ***
-## Sponsor Organizations
+## Competition Organizers
 
 <section>
 	<br>
