@@ -53,6 +53,15 @@ Our goal: To evaluate how well experts can model moment-to-moment ratings of two
         Development and testing...
       </div>
     </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <img src="/assets/img/comp1.png" alt="" width="150" height="150">
+      </div>
+      <div class="col-sm-9">
+        <h3>Co-authored manuscript</h3>
+        We write dat paper...
+      </div>
+    </div>
   </div>
 </section>
 <br>
