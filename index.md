@@ -26,7 +26,7 @@ Our goal: To evaluate how well experts can model moment-to-moment ratings of two
       </div>
       <div class="col-sm-9">
         <h3>Competitor Selection</h3>
-        Researchers can apply to participate in the challenge if they (a) have experience in machine learning and/or artificial intelligence, and (b) are currently affiliated with an academic institution (e.g., a university or college).<br><br>12 applicants will be chosen to participate in the challenge, and these competitors will receive a small stipend at the end of the challenge.
+        Researchers can apply to participate in the challenge if they (a) have significant experience in machine learning, and (b) are currently affiliated with an academic institution.<br><br>12 applicants will be chosen to participate in the challenge, and these competitors will receive a small stipend at the end of the challenge.
       </div>
     </div>
     <div class="col-sm-12">
@@ -37,8 +37,8 @@ Our goal: To evaluate how well experts can model moment-to-moment ratings of two
         <img src="/assets/img/comp2.png" alt="" width="150" height="150">
       </div>
       <div class="col-sm-9">
-        <h3>Database Dissemination</h3>
-        Competitors will be given four emotion modeling challenges. For each challenge, they will be asked to model moment-to-moment self-report ratings of valence and arousal using 8 recordings of physiology (e.g., electrocardiography, galvanic skin response, and skin temperature).
+        <h3>Database Distribution</h3>
+        Competitors will be given four emotion modeling challenges. For each challenge, they will be asked to model moment-to-moment self-report ratings of valence and arousal using 8 moment-to-moment physiology recordings (e.g., electrocardiography, galvanic skin response, and skin temperature).
       </div>
     </div>
     <div class="col-sm-12">
@@ -61,8 +61,8 @@ Our goal: To evaluate how well experts can model moment-to-moment ratings of two
         <img src="/assets/img/comp4.png" alt="" width="150" height="150">
       </div>
       <div class="col-sm-9">
-        <h3>Co-authored manuscript</h3>
-        We write dat paper...
+        <h3>Result Dissemination</h3>
+        Challengers and competition organizers will co-author a manuscript. This manuscript will describes the challenge results, challenge limitations, and future directions for improving the accuracy and generalizability of emotion recognition research.
       </div>
     </div>
   </div>
