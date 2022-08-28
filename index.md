@@ -77,36 +77,25 @@ Our goal: To evaluate how well experts can model moment-to-moment ratings of two
 	<div class="container">
 		<div class="row justify-content-around">
 		  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
-		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="150" height="150"></a>
-			   <h4><a href="https://manybabies.github.io" target="_blank">ManyBabies</a></h4>
+		    <img src="/assets/img/Coles_headshot.jpg" alt="" width="110" height="110">
+			   <h4><a href="https://manybabies.github.io" target="_blank">Nicholas Coles</a></h4>
 		  </div>
       		  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
-		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="150" height="150"></a>
-			   <h4><a href="https://manybabies.github.io" target="_blank">ManyBabies</a></h4>
+		    <img src="/assets/img/Coles_headshot.jpg" alt="" width="110" height="110">
+			   <h4><a href="https://manybabies.github.io" target="_blank">Stanisław Saganowski</a></h4>
 		  </div>
 		  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
-		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="150" height="150"></a>
-			   <h4><a href="https://manybabies.github.io" target="_blank">ManyBabies</a></h4>
+		    <img src="/assets/img/Coles_headshot.jpg" alt="" width="110" height="110">
+			   <h4><a href="https://manybabies.github.io" target="_blank">Maciej Behnke</a></h4>
 		  </div>
 	 	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
-		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="150" height="150"></a>
-			   <h4><a href="https://manybabies.github.io" target="_blank">ManyBabies</a></h4>
+		    <img src="/assets/img/Coles_headshot.jpg" alt="" width="110" height="110">
+			   <h4><a href="https://manybabies.github.io" target="_blank">Bartek Perz</a></h4>
 		  </div>
 	  </div>
 	</div>
 </section>
 
-***
-## Contact Us
-
-Send questions about the 2022 BTSCON to our [**Conference Email**](mailto:bigteamscienceconference@gmail.com). <br>
-Alternatively, you can reach out to any of the conference organizers:
-
-* [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, USA - ManyBabies* [[email]](mailto:heidib@stanford.edu)
-* [**Manuel Bohn**](https://manuelbohn.github.io), *Max Planck Institute for Evolutionary Anthropology, Germany - ManyPrimates* [[email]](mailto:manuel0bohn@gmail.com)
-* [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, USA - Psychological Science Accelerator* [[email]](mailto:ncoles@stanford.edu)
-* **Grace Zhou**, *University of Manitoba, Canada - ManyBabies* [[email]](mailto:grace.zhou@umanitoba.ca)
-* **Erin Sievers**, *Ashland University, USA - Psychological Science Accelerator* [[email]](mailto:esievers@ashland.edu)
 
 ***
 *icon attribution: <a href="http://www.freepik.com" target="_blank">Session</a> icons designed by macrovector / Freepik;
