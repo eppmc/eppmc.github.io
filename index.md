@@ -81,7 +81,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
 			   <h4>Nicholas Coles</h4>
 		  </div>
       		  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
-		    <img src="/assets/img/Coles_headshot.jpg" alt="" width="110" height="110">
+		    <img src="/assets/img/Saganowski_headshot.png" alt="" width="110" height="110">
 			   <h4>Stanisław Saganowski</h4>
 		  </div>
 		  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
@@ -92,7 +92,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
         			<p>   </p>
     		  </div>
 	 	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
-		    <img src="/assets/img/Coles_headshot.jpg" alt="" width="110" height="110">
+		    <img src="/assets/img/Perz_headshot.png" alt="" width="110" height="110">
 			   <h4>Bartek Perz</h4>
 		  </div>
 	  </div>
