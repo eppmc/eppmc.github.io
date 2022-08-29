@@ -11,7 +11,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
 
 
 ***
-## Competition Details
+## Initiative Details
 
 <section>
   <div class="container">
@@ -26,7 +26,8 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
       </div>
       <div class="col-sm-9">
         <h3>Competitor Selection</h3>
-        Researchers can apply to participate in the challenge if they (a) have significant experience in machine learning, and (b) are currently affiliated with an academic institution.<br><br>12 applicants will be chosen to participate in the challenge, and these competitors will receive a small stipend at the end of the challenge.
+        Researchers can apply to participate in the coopetition if they (1) have significant experience in machine learning, and (2) are currently affiliated with an academic institution. <br><br>From the applications, 12 coopetitors will be chosen to participate in the initiative. Coopetitors will receive a small stipend at the end of the challenge.
+
       </div>
     </div>
     <div class="col-sm-12">
@@ -38,7 +39,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
       </div>
       <div class="col-sm-9">
         <h3>Database Distribution</h3>
-        Competitors will be given four emotion modeling challenges. For each challenge, they will be asked to model moment-to-moment self-report ratings of valence and arousal using 8 moment-to-moment physiology recordings (e.g., electrocardiography, galvanic skin response, and skin temperature).
+        Coopetitors will be given four emotion modeling challenges. For each challenge, they will be asked to model moment-to-moment self-report ratings of valence and arousal using 8 moment-to-moment physiology recordings (e.g., electrocardiography, galvanic skin response, and skin temperature).
       </div>
     </div>
     <div class="col-sm-12">
@@ -50,7 +51,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
       </div>
       <div class="col-sm-9">
         <h3>Model Development and Testing</h3>
-        Competitors will be challenged to obtain the best model fit, operationalized as the minimization of mean squared error in test subsets of the data. Model testing will involve a combination of k-fold and hold-out cross-validation.<br><br>Afterwards, competitors will make their code openly available for checking by other competitors. 
+        Coopetitors will be challenged to obtain the best model fit, operationalized as the minimization of mean squared error in test subsets of the data. Model testing will involve a combination of k-fold and hold-out cross-validation. <br><br>Coopetitors will make their code openly-available and check each other’s work. The coopetitors with the best models will receive a small monetary prize.
       </div>
     </div>
     <div class="col-sm-12">
@@ -61,8 +62,8 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
         <img src="/assets/img/comp4.png" alt="" width="150" height="150">
       </div>
       <div class="col-sm-9">
-        <h3>Result Dissemination</h3>
-        Challengers and competition organizers will co-author a manuscript. This manuscript will describes the challenge results, challenge limitations, and future directions for improving the accuracy and generalizability of emotion recognition research.
+        <h3>Results Dissemination</h3>
+        Coopetitors and initiative organizers will brainstorm how to improve the accuracy and generalizability of emotion recognition research. They will then co-author a manuscript that describes the competition results, limitations, and future directions.
       </div>
     </div>
   </div>
@@ -70,7 +71,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
 <br>
 
 ***
-## Competition Organizers
+## Initiative Organizers
 
 <section>
 	<br>
