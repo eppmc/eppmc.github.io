@@ -26,7 +26,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
       </div>
       <div class="col-sm-9">
         <h3>Competitor Selection</h3>
-        Researchers can apply to participate in the coopetition if they (1) have significant experience in machine learning, and (2) are currently affiliated with an academic institution. <br><br>From the applications, 12 coopetitors will be chosen to participate in the initiative. Coopetitors will receive a small stipend at the end of the challenge.
+        Researchers can apply to participate in the coopetition if they (1) have significant experience in machine learning, and (2) are  affiliated with an academic institution. <br><br>12 coopetitors will be chosen to participate in the initiative. Coopetitors will receive a small stipend at the end of the challenge.
 
       </div>
     </div>
@@ -39,7 +39,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
       </div>
       <div class="col-sm-9">
         <h3>Database Distribution</h3>
-        Coopetitors will be given four emotion modeling challenges. For each challenge, they will be asked to model moment-to-moment self-report ratings of valence and arousal using 8 moment-to-moment physiology recordings (e.g., electrocardiography, galvanic skin response, and skin temperature).
+        Coopetitors will be given 4 emotion modeling challenges. For each challenge, they will be asked to model moment-to-moment self-report ratings of valence and arousal using 8 moment-to-moment physiology recordings (e.g., electrocardiography, galvanic skin response, temperature).
       </div>
     </div>
     <div class="col-sm-12">
@@ -51,7 +51,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
       </div>
       <div class="col-sm-9">
         <h3>Model Development and Testing</h3>
-        Coopetitors will be challenged to obtain the best model fit, operationalized as the minimization of mean squared error in test subsets of the data. Model testing will involve a combination of k-fold and hold-out cross-validation. <br><br>Coopetitors will make their code openly-available and check each other’s work. The coopetitors with the best models will receive a small monetary prize.
+        Model testing will involve a combination of k-fold and hold-out cross-validation. The coopetitors with the best models fits will receive a small monetary prize.<br><br>Coopetitors will make their code openly-available and check each other’s work. 
       </div>
     </div>
     <div class="col-sm-12">
