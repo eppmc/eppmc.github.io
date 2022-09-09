@@ -21,7 +21,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center" valign="center">
+      <div class="col-sm-3 col-xs-6" align="center" vertical-align = "middle">
         <img src="/assets/img/comp1.png" alt="" width="150" height="150">
       </div>
       <div class="col-sm-9">
@@ -35,7 +35,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <img src="/assets/img/comp2.png" alt="" width="150" height="150" valign="center">
+        <img src="/assets/img/comp2.png" alt="" width="150" height="150" vertical-align = "middle">
       </div>
       <div class="col-sm-9">
         <h3>Database Distribution</h3>
