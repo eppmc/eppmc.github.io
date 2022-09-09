@@ -34,8 +34,8 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
         <p>   </p>
     </div>
     <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center" valign="center">
-        <img src="/assets/img/comp2.png" alt="" width="150" height="150">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <img src="/assets/img/comp2.png" alt="" width="150" height="150" valign="center">
       </div>
       <div class="col-sm-9">
         <h3>Database Distribution</h3>
@@ -46,11 +46,11 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
         <p>   </p>
     </div>
     <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center" valign="center">
+      <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/comp3.png" alt="tools" width="150" height="150">
       </div>
       <div class="col-sm-9">
-        <h3>Model Development, Testing, and Open Science</h3>
+        <h3>Model Testing and Open Science</h3>
         Model testing will involve a combination of k-fold and hold-out cross-validation. The coopetitors with the best models fits will receive a small monetary prize.<br><br>Coopetitors will make their code openly-available and reproducible--and will check each other’s work. 
       </div>
     </div>
@@ -58,7 +58,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
         <p>   </p>
     </div>
     <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center" valign="center">
+      <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/comp4.png" alt="" width="150" height="150">
       </div>
       <div class="col-sm-9">
