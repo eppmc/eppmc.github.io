@@ -59,9 +59,21 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <img src="/assets/img/comp4.png" alt="" width="150" height="150">
+        <img src="/assets/img/comp5.png" alt="" width="150" height="150">
       </div>
-      <div class="col-sm-9">
+<div class="col-sm-9">
+        <h3>Database Distribution</h3>
+        Coopetitors will be given 4 emotion modeling challenges. For each challenge, they will be asked to model moment-to-moment self-report ratings of valence and arousal using 8 moment-to-moment physiology recordings (e.g., electrocardiography, galvanic skin response, temperature).
+      </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <img src="/assets/img/comp3.png" alt="tools" width="150" height="150">
+      </div>      
+<div class="col-sm-9">
         <h3>Results Dissemination</h3>
         Coopetitors and initiative organizers will brainstorm how to improve the accuracy and generalizability of emotion recognition research. They will then co-author a manuscript that describes the competition results, limitations, and future directions.
       </div>
